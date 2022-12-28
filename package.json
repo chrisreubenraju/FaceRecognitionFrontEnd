@@ -2,7 +2,7 @@
   "name": "facerecognitionbrain",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chrisreubenraju.github.io/FaceRecognition",
+  "homepage": "https://chrisreubenraju.github.io/FaceRecognitionFrontEnd",
   "dependencies": {
     "clarifai": "^2.9.1",
     "gh-pages": "^4.0.0",
