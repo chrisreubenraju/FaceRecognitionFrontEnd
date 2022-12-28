@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/FaceRecognition/static/css/main.7af6ced8.css",
-    "main.js": "/FaceRecognition/static/js/main.9723126b.js",
-    "static/media/stranger-things-theme-song.mp3": "/FaceRecognition/static/media/stranger-things-theme-song.d924d15e65fc1103b149.mp3",
-    "index.html": "/FaceRecognition/index.html",
-    "main.7af6ced8.css.map": "/FaceRecognition/static/css/main.7af6ced8.css.map",
-    "main.9723126b.js.map": "/FaceRecognition/static/js/main.9723126b.js.map"
+    "main.css": "/FaceRecognitionFrontEnd/static/css/main.7af6ced8.css",
+    "main.js": "/FaceRecognitionFrontEnd/static/js/main.eb3d64f4.js",
+    "static/media/stranger-things-theme-song.mp3": "/FaceRecognitionFrontEnd/static/media/stranger-things-theme-song.d924d15e65fc1103b149.mp3",
+    "index.html": "/FaceRecognitionFrontEnd/index.html",
+    "main.7af6ced8.css.map": "/FaceRecognitionFrontEnd/static/css/main.7af6ced8.css.map",
+    "main.eb3d64f4.js.map": "/FaceRecognitionFrontEnd/static/js/main.eb3d64f4.js.map"
   },
   "entrypoints": [
     "static/css/main.7af6ced8.css",
-    "static/js/main.9723126b.js"
+    "static/js/main.eb3d64f4.js"
   ]
 }
