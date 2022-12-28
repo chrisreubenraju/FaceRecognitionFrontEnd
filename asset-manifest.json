@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/FaceRecognitionFrontEnd/static/css/main.7af6ced8.css",
-    "main.js": "/FaceRecognitionFrontEnd/static/js/main.eb3d64f4.js",
+    "main.js": "/FaceRecognitionFrontEnd/static/js/main.504e498c.js",
     "static/media/stranger-things-theme-song.mp3": "/FaceRecognitionFrontEnd/static/media/stranger-things-theme-song.d924d15e65fc1103b149.mp3",
     "index.html": "/FaceRecognitionFrontEnd/index.html",
     "main.7af6ced8.css.map": "/FaceRecognitionFrontEnd/static/css/main.7af6ced8.css.map",
-    "main.eb3d64f4.js.map": "/FaceRecognitionFrontEnd/static/js/main.eb3d64f4.js.map"
+    "main.504e498c.js.map": "/FaceRecognitionFrontEnd/static/js/main.504e498c.js.map"
   },
   "entrypoints": [
     "static/css/main.7af6ced8.css",
-    "static/js/main.eb3d64f4.js"
+    "static/js/main.504e498c.js"
   ]
 }
